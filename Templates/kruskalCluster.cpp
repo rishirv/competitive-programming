@@ -1,3 +1,4 @@
+//K-clustering based on Kruskal's algorithm
 #include <iostream>
 #include <fstream>
 #include <vector>

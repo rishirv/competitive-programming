@@ -1,3 +1,4 @@
+//Kosaraju's Algorithm to find strongly connected components (SCC)
 #include <iostream>
 #include <fstream>
 #include <vector>

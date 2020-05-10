@@ -1,3 +1,4 @@
+//Greedy solution to the travelling salesman problem (TSP)
 #include <iostream>
 #include <fstream>
 #include <cmath>
